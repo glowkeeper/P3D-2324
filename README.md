@@ -1,6 +1,6 @@
 # Programming for 3D
 
-Welcome to Programming for 3D (P3D), a module run at the [University of Sussex](https://www.sussex.ac.uk/).
+Welcome to Programming for 3D (P3D) 2023/2024, a module run at the [University of Sussex](https://www.sussex.ac.uk/).
 
 This module supports the university's [staff and student charter and guiding principles](/docs/staffStudentCharter.pdf).
 
